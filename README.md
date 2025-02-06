@@ -30,4 +30,4 @@ This API accepts GET requests with a query parameter `number` and returns a JSON
 
 
 ## Example on how to use the endpoint , 'replace the number 371 with any other number'
-https://mysite-pwjz.onrender.com/api/classify-number?number=371
+https://hng-stage-one-666j.onrender.com/api/classify-number?number=371
